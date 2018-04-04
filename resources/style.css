@@ -4,17 +4,21 @@ body{
 }
 h1{
   font-size: 70px;
-  font-weight: bold;
-  color: White;
+  color: white;
 }
 .top{
   background-image: url('/Projects/Broadway _Design/resources/pictures/the-flatiron-building.png');
-  font-size: 18px;
   background-position: center;
+  font-weight: bold;
+  color: white
 }
 a{
   color: white;
 }
+.mainmenu{
+  font-size: 18px;
+}
+
 h2{
   font-size: 32px;
   font-weight: bold;
@@ -27,10 +31,12 @@ p{
   font-size: 14px;
 }
 .heading2{
-  color: red;
+  background-image: url('/Projects/Broadway _Design/resources/pictures/the-flatiron-building.png');
+  background-position: center;
+  color: white;
 }
 li{
   list-style-type: none;
-  padding: 0;
+  padding: 0px;
   margin: 10px;
 }
