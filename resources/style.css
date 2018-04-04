@@ -5,13 +5,15 @@ body{
 h1{
   font-size: 70px;
   font-weight: bold;
-  color: red;
-  background-image: url('picture/the-flatiron-building.png');
+  color: White;
 }
-.menu{
+.top{
+  background-image: url('/Projects/Broadway _Design/resources/pictures/the-flatiron-building.png');
   font-size: 18px;
-  color: red;
-  background-image: url('picture/the-flatiron-building.png');
+  background-position: center;
+}
+a{
+  color: white;
 }
 h2{
   font-size: 32px;
@@ -26,4 +28,9 @@ p{
 }
 .heading2{
   color: red;
+}
+li{
+  list-style-type: none;
+  padding: 0;
+  margin: 10px;
 }
