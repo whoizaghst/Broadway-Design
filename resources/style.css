@@ -7,7 +7,7 @@ h1{
   color: white;
 }
 .top{
-  background-image: url('/Projects/Broadway _Design/resources/pictures/the-flatiron-building.png');
+  background-image: url('/Projects/Broadway _Design/resources/pictures/the-flatiron-building.jpeg');
   background-position: center;
   font-weight: bold;
   color: white
@@ -31,12 +31,13 @@ p{
   font-size: 14px;
 }
 .heading2{
-  background-image: url('/Projects/Broadway _Design/resources/pictures/the-flatiron-building.png');
+  background-image: url('/Projects/Broadway _Design/resources/pictures/the-flatiron-building.jpeg');
   background-position: center;
   color: white;
 }
-li{
-  list-style-type: none;
-  padding: 0px;
-  margin: 10px;
+.footer {
+  text-align: left;
+  background-color: dimgray;
+  font-size: 11px;
+  color: white;
 }
