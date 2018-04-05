@@ -7,7 +7,7 @@ h1{
   color: white;
 }
 .top{
-  background-image: url('/Projects/Broadway _Design/resources/pictures/the-flatiron-building.png');
+  background-image: url('../resources/pictures/the-flatiron-building.png');
   background-position: center;
   font-weight: bold;
   color: white
@@ -31,7 +31,7 @@ p{
   font-size: 14px;
 }
 .heading2{
-  background-image: url('/Projects/Broadway _Design/resources/pictures/the-flatiron-building.png');
+  background-image: url('../resources/pictures/the-flatiron-building.png');
   background-position: center;
   color: white;
 }
